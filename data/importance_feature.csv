@@ -1,0 +1,20 @@
+Feature,Importance
+MonthlyIncome,0.16374420676226661
+Age,0.14327167017294784
+TotalWorkingYears,0.10733068271062969
+OverTime_Yes,0.09845175647112882
+YearsAtCompany,0.09770799035837165
+YearsWithCurrManager,0.07898651975852762
+YearsInCurrentRole,0.06354345971616307
+JobInvolvement,0.058672454646453154
+JobLevel,0.04800604421148672
+BusinessTravel_Travel_Frequently,0.0254561436045329
+JobRole_Sales Executive,0.02101205385912354
+BusinessTravel_Travel_Rarely,0.020253445853312388
+JobRole_Research Scientist,0.017542696424117713
+JobRole_Laboratory Technician,0.014729628147101144
+JobRole_Manufacturing Director,0.013477302957869622
+JobRole_Sales Representative,0.012174095908265268
+JobRole_Research Director,0.005993774836199337
+JobRole_Manager,0.005134178002005355
+JobRole_Human Resources,0.004511895599497482
